@@ -1,5 +1,5 @@
 import sqlite3
-
+#sprintChallenge 09252020 
 conn = sqlite3.connect("northwind_small.sqlite3")
 cursor = conn.cursor()
 
